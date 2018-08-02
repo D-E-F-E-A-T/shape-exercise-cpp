@@ -1,6 +1,9 @@
 <h1>Shape Exercise in C++</h1>
 This exercise is intended to reinforce OOP principles such as inheritance, interfaces, virtual/abstract classes.
-It is a Visual Studio C++ console application project.
 
+<h2>Tools</h2>
+This is a Visual Studio C++ console application project.  Make sure that Visual Studio 2017 is installed on your machine (https://visualstudio.microsoft.com/downloads/).  The Community Edition is sufficient.
+
+<h2>Contact</h2>
 Contact inquiries@orchidwarestudios for a solution to this exercise.
 
