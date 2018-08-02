@@ -3,3 +3,7 @@ ipch/SHAPE-EXERCISE-87ced121/SHAPE-EXERCISE-8a243d40.ipch
 *.opendb
 *.log
 *.sdf
+shape-exercise/x64
+
+x64
+.vs
